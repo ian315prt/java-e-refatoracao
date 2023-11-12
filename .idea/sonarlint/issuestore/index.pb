@@ -12,3 +12,9 @@ f
 6src/main/java/br/com/alura/service/ShelterService.java,7\c\7cb8f4f03b73d6162e7f16a7b31fd49505cb0ccd
 b
 2src/main/java/br/com/alura/service/PetService.java,2\a\2a97efd6a61d99c79ce3ba05e78e1754d5903450
+f
+6src/main/java/br/com/alura/service/RequestService.java,c\4\c4a15d16584874a48c0088f9ea93068f696bc83b
+e
+5src/main/java/br/com/alura/client/RequestService.java,e\5\e561fd169a580fbd330e1e2e2035bbe970d4f2d7
+n
+>src/main/java/br/com/alura/client/ClientHttpConfiguration.java,0\8\08012503435792a1945bdb023c311734ea5d09cb
