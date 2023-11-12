@@ -8,3 +8,5 @@ h
 8src/main/java/br/com/alura/AdopetConsoleApplication.java,f\b\fb7fb890f267d372511dd70fc3bab94a7baab6de
 8
 pets.csv,d\0\d03b520661acfcfab75c9c49c3a4efd27eae5f58
+>
+.gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
